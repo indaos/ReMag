@@ -8,7 +8,7 @@ Mac window manager, which can organize and manage windows, save screen templates
 </p>
 <p>
 Signed and notirized by Apple v1b1 for Big Sur 
-<a href="ReMag.app"> ReMag.app </a>
+<a href="ReMag.app"> ReMag.dmg </a>
 </p>
 <p>
 You should as usual for such apps enable  "Accessibility" and "Screen Recording" in your "Security & Privacy" settings.
